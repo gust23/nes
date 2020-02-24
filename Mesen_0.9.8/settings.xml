@@ -1374,7 +1374,23 @@
   <RecentFiles>
     <RecentItem>
       <RomFile>
+        <Path>C:\Users\Gustavo\NES\refactoring\helloworld26.nes</Path>
+        <InnerFile />
+        <InnerFileIndex>0</InnerFileIndex>
+      </RomFile>
+      <PatchFile xsi:nil="true" />
+    </RecentItem>
+    <RecentItem>
+      <RomFile>
         <Path>C:\Users\Gustavo\Downloads\NES\helloworld.nes</Path>
+        <InnerFile />
+        <InnerFileIndex>0</InnerFileIndex>
+      </RomFile>
+      <PatchFile xsi:nil="true" />
+    </RecentItem>
+    <RecentItem>
+      <RomFile>
+        <Path>C:\Users\Gustavo\10-spritegraphics\10-spritegraphics\spritegraphics.nes</Path>
         <InnerFile />
         <InnerFileIndex>0</InnerFileIndex>
       </RomFile>
@@ -1829,8 +1845,14 @@
     <WindowSize xsi:nil="true" />
   </HistoryViewerInfo>
   <GameSpecificSettings />
-  <WindowLocation xsi:nil="true" />
-  <WindowSize xsi:nil="true" />
+  <WindowLocation>
+    <X>511</X>
+    <Y>281</Y>
+  </WindowLocation>
+  <WindowSize>
+    <Width>530</Width>
+    <Height>555</Height>
+  </WindowSize>
   <CheatWindowLocation>
     <X>0</X>
     <Y>0</Y>
