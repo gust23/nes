@@ -1,2 +1,2 @@
-# NES PROJECT GAME
+# NES GAME PROJECT
 First NES Project
